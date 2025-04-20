@@ -19,4 +19,5 @@ data = {
 df= pd.DataFrame(data)
 
 st.dataframe(df)
+st.button("click the df")
 
